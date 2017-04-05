@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Bienvenida
+author: carlos
+tags: welcome bienvenida
+category: misc
 ---
 **¡Bienvenidos a mi Blog chavalies!** :clap: :clap: :clap:
 
